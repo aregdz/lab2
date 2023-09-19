@@ -1,4 +1,4 @@
-number = int(input("Введите число: "))
+number = int(input("Введите число : "))
 
 divisors = []
 
