@@ -1,4 +1,5 @@
-number = int(input("Введите число : "))
+print("ВАС ПРИВЕТСТВУЕТ АРЕГ!!!")
+number = int(input("Введите число: ,"))
 
 divisors = []
 
